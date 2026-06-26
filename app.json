@@ -10,14 +10,24 @@
       "resizeMode": "contain",
       "backgroundColor": "#2F5D3A"
     },
-    "assetBundlePatterns": ["**/*"],
-    "ios": { "supportsTablet": true },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
     "android": {
       "package": "com.kaamsaathi.app"
     },
     "web": {
       "bundler": "metro",
       "favicon": "./assets/workers/w1.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "135a0e18-ec33-4199-861d-b7631a178910"
+      }
+    },
+    "owner": "idthree"
   }
 }
