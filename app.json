@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "KaamSaathi",
+    "slug": "kaamsaathi",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "backgroundColor": "#FBF6EC",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#2F5D3A"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": { "supportsTablet": true },
+    "android": {
+      "package": "com.kaamsaathi.app"
+    },
+    "web": {
+      "bundler": "metro",
+      "favicon": "./assets/workers/w1.png"
+    }
+  }
+}
