@@ -28,6 +28,9 @@
         "projectId": "135a0e18-ec33-4199-861d-b7631a178910"
       }
     },
-    "owner": "idthree"
+    "owner": "idthree",
+    "plugins": [
+      "expo-font"
+    ]
   }
 }
